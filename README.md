@@ -4,7 +4,11 @@ Esta página web está inspirada en el Cosmere, universo literario de Brandon Sa
 
 Este proyecto tuvo como objetivo utilizar PHP como backend del sitio, e implementar una **base de datos propia**, lo cual permite que los usuarios se registren, interactúen entre ellos y con el contenido. Además, también aporta una mejor estructura para la información del sitio, generando mayor escalabilidad y seguridad. 
 
-cosmerebrandonsanderson.42web.io 
+---
+
+## 🖥️ Demo
+
+[Ver web](https://cosmerebrandonsanderson.42web.io/)
 
 ---
 
