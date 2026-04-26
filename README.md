@@ -8,9 +8,8 @@ Este proyecto tuvo como objetivo utilizar PHP como backend del sitio, e implemen
 
 ## 🖥️ Demo
 
-<a href="https://cosmerebrandonsanderson.42web.io" target="_blank">
-  Ver web
-</a>
+[Ver web](https://cosmerebrandonsanderson.42web.io)
+
 ---
 
 ## 🫧 Características
